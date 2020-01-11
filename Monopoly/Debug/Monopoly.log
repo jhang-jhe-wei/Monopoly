@@ -1,0 +1,15 @@
+﻿  Print.cpp
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(162): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(400): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(405): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(415): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(420): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(430): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(435): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(445): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(450): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(485): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(494): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(503): warning C4018: '>': signed/unsigned 不相符
+c:\users\jerry\desktop\monopoly\monopoly\print.cpp(512): warning C4018: '>': signed/unsigned 不相符
+  Monopoly.vcxproj -> C:\Users\Jerry\Desktop\Monopoly\Debug\Monopoly.exe
